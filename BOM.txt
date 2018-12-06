@@ -1,0 +1,30 @@
+Part    Value        Device           Description
+A-PULSE              LED3MM           LED
+C1      100n         CAPKIT           Capacitor
+C2      100n         CAPKIT           Capacitor
+C3      4.7u         CAP_POLPTH2      Capacitor Polarized
+C4      4.7u         CAP_POLPTH2      Capacitor Polarized
+D-PULSE              LED3MM           LED
+D1                   LED3MM           LED
+D2                   LED3MM           LED
+D3                   LED3MM           LED
+D4                   LED3MM           LED
+D5                   LED3MM           LED
+FRAME1  FRAME-LETTER FRAME-LETTER     Schematic Frame
+IC1     AD822N       AD822N           Single-Supply, Rail-to-Rail Low Power FET-Input Op Amp
+IC2     AD822N       AD822N           Single-Supply, Rail-to-Rail Low Power FET-Input Op Amp
+LSB                  LED3MM           LED
+MSB                  LED3MM           LED
+OK1     TCRT100      TCRT100        Optocoupler, Phototransistor Output, Low Input Current
+R1      47k          RESISTORPTH-1/4W Resistor
+R2      1k           RESISTORPTH-1/4W Resistor
+R3      680k         RESISTORPTH-1/4W Resistor
+R4      47k          RESISTORPTH-1/4W Resistor
+R5      10k          RESISTORPTH-1/4W Resistor
+R6      680k         RESISTORPTH-1/4W Resistor
+R7      10k          RESISTORPTH-1/4W Resistor
+R8      150          RESISTORPTH-1/4W Resistor
+R9      1k           RESISTORPTH-1/4W Resistor
+STATUS               LED3MM           LED
+U$1     PIC16F88-DIP PIC16F88-DIP     8-bit PIC uC
+Y1                   RESONATORPTH     Resonator
